@@ -1,0 +1,4 @@
+select account.balance
+from customer, account
+where account.accountOwner = customer.customerId 
+	and customer.customerCity = "Nantes" 

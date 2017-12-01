@@ -1,0 +1,14 @@
+calendar {
+  event DSL tutorial {
+    on 2009/11/8
+    from 09:00
+    to 16:00
+    at Aarhus Music Hall
+  }
+  event Making use of Patterns {
+    at Aarhus Music Hall
+    from 14:15
+    to 15:45
+    on 2009/10/5
+  }
+}

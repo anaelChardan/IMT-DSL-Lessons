@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Runtime
+Bundle-SymbolicName: fr.emn.dsls.massimotisi.sql4csv.internal.template
+Bundle-Version: 1.0.0.qualifier
+Export-Package: sql4csv
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8,
+ JavaSE-1.7,
+ JavaSE-1.6
